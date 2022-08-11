@@ -10,3 +10,11 @@
 - Formikは、React/ChakraUIと親和性の高いフォーム用ライブラリで、入力フォームにこれを使います。
 - バックエンドはすべてFirebaseにお任せします。DBはFirebsaeのRealtimeDatabaseを使います。
 
+# やりたいこと
+
+- チャット機能の作成方法を端的に遺す
+- 注意点を残しておく
+  - firebase へのログイン方法
+  - firebase emulatorの使い方
+  - firebase emulatorと接続する際の設定 ( VSCode での port 転送 )
+- プロジェクト作成からデプロイまでやる
